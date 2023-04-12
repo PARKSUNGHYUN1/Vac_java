@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=RaggedArray
+comment0.text=\r\n\ \uBE44\uC815\uBC29\uD615\ \uBC30\uC5F4\uC744\ \uB9CC\uB4E4\uC5B4\ \uAC12\uC744\ \uCD08\uAE30\uD654,\uCD9C\uB825,\uAC01\ \uD589\uC758\ \uAC12\ \uCD9C\uB825\ \uD574\uC8FC\uB294\ \uD504\uB85C\uADF8\uB7A8\ \r\n\ \r\n\ @author\ (13\uD300_2020315015\ \uC724\uC6A9\uD638,\ 2018315031\ \uBC15\uC131\uD604)\ \r\n\ @version\ (2023.04.10)\r\n
+comment1.params=
+comment1.target=int[][]\ makeArray()
+comment2.params=resetArray
+comment2.target=int[][]\ initializeArray(int[][])
+comment3.params=outputArray
+comment3.target=void\ printArray(int[][])
+comment4.params=totalArray
+comment4.target=void\ sumArray(int[][])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
